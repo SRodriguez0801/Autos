@@ -45,3 +45,31 @@ background: linear-gradient(to right, #59e059, #59e059,#59e059);
 .I-J-img {
     max-height: 400px !important;
 }
+
+.bg-social{
+    background: #000000; 
+    background: -webkit-linear-gradient(to right, #0f9b0f, #000000);  
+    background: linear-gradient(to right, #0f9b0f, #000000); 
+   
+}
+
+.list-social li{
+    border: none !important;
+    background-color: rgb(0,0,0,0) !important;
+}
+
+
+
+
+@media(max-width:400px){
+    .I-J-img{
+        display: none;
+    }
+
+    .bg-social{
+        background: #000000; 
+        background: -webkit-linear-gradient(to right, #0f9b0f, #000000); 
+        background: linear-gradient(to right, #0f9b0f, #000000); 
+        color: white;
+    }
+}
