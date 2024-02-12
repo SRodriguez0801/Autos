@@ -1,0 +1,47 @@
+.bg-barra-nav{
+
+    background:#59e059;  
+background: -webkit-linear-gradient(to right, #59e059); 
+background: linear-gradient(to right, #59e059, #59e059,#59e059);
+
+}
+
+#img_top .carousel-item img{
+    height: 90vh;
+}
+
+.text-seg-body{
+    text-align: justify;
+}
+
+.gran-img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+
+#seg .card-body img {
+    max-width: 100%; 
+    border: 1px solid #ccc; 
+    border-radius: 8px; 
+}
+
+
+
+#ventana .navbar-nav .nav-item .nav-link,
+#ventana .navbar-form .form-control {
+    color: white;
+}
+
+.align-items{
+    border:none;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+   
+    align-items: center !important;
+}
+
+
+.I-J-img {
+    max-height: 400px !important;
+}
